@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fa5c40f.chunk.css",
+    "main.js": "/static/js/main.56370627.chunk.js",
+    "main.js.map": "/static/js/main.56370627.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90f9b69a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90f9b69a.js.map",
+    "static/js/2.2d4d6ba0.chunk.js": "/static/js/2.2d4d6ba0.chunk.js",
+    "static/js/2.2d4d6ba0.chunk.js.map": "/static/js/2.2d4d6ba0.chunk.js.map",
+    "static/js/3.1d437653.chunk.js": "/static/js/3.1d437653.chunk.js",
+    "static/js/3.1d437653.chunk.js.map": "/static/js/3.1d437653.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef7df1839ec8fba04bc1a83bf8e7cc51.js": "/precache-manifest.ef7df1839ec8fba04bc1a83bf8e7cc51.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1fa5c40f.chunk.css.map": "/static/css/main.1fa5c40f.chunk.css.map",
+    "static/js/2.2d4d6ba0.chunk.js.LICENSE.txt": "/static/js/2.2d4d6ba0.chunk.js.LICENSE.txt",
+    "static/media/Senior_Frontend_React_Developer_Andrii_Petryk.docx.pdf": "/static/media/Senior_Frontend_React_Developer_Andrii_Petryk.docx.c22ec582.pdf",
+    "static/media/avatar.jpg": "/static/media/avatar.013cbb90.jpg",
+    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/ecommerceShop.png": "/static/media/ecommerceShop.21f2cfc0.png",
+    "static/media/jsm-media.png": "/static/media/jsm-media.08cb2d84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f9b69a.js",
+    "static/js/2.2d4d6ba0.chunk.js",
+    "static/css/main.1fa5c40f.chunk.css",
+    "static/js/main.56370627.chunk.js"
+  ]
+}
